@@ -6,13 +6,13 @@ Make sure you have all the required tools installed:
   
 
 How to create venv (virtual environment)
-1. Run this in root directory of the project after cloning in.
-  python -m venv venv
+1. Run this in root directory of the project after cloning it.
+python -m venv venv
 
-2. Activate the virtual environment
+3. Activate the virtual environment
   venv\Scripts\Activate
 
-3. Install dependencies from the requirements file i made. This will install Flask and other Python dependencies:
+4. Install dependencies from the requirements file i made. This will install Flask and other Python dependencies:
   pip install -r requirements.txt
 
 
