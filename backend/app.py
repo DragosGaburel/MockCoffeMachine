@@ -9,13 +9,13 @@ def sensor_data():
     data = [
         {
             "name": "Vand dunk 1",
-            "percentage": 15,
-            "weight": 3
+            "percentage": 5,
+            "weight": 0.5
         },
         {
             "name": "Vand dunk 2",
-            "percentage": 25,
-            "weight": 5
+            "percentage": 90,
+            "weight": 18
         },
         {
             "name": "Vand dunk 3",
@@ -24,8 +24,8 @@ def sensor_data():
         },
         {
             "name": "Vand dunk 4",
-            "percentage": 45,
-            "weight": 9
+            "percentage": 50,
+            "weight": 10
         }
     ]
     return jsonify(data)
