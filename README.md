@@ -1,3 +1,7 @@
+This is a mock project of the private, final "Coffee Island", currently used by HomeRunner.
+
+
+
 As a fetcher:
 
 Make sure you create your own virtual environment for python flask.
